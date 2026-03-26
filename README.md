@@ -145,10 +145,6 @@ Another reason to avoid OneDrive.
 
 ---
 
-## 9. After setup: the real learning begins
-The project is just a sandbox.  
-The course is actually about **Claude Code**, not React or Prisma.
-
 Useful commands:
 
 ```
